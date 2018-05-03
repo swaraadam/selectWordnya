@@ -1,0 +1,2 @@
+# selectWordnya
+berisis word
